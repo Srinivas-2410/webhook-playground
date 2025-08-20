@@ -18,7 +18,7 @@ A full stack Dockerized application for testing and simulating webhooks with cus
 ### Quick Start
 1. Clone the repository:
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/Srinivas-2410/webhook-playground.git
    cd webhook-playground
    ```
 2. Build and run with Docker Compose:
